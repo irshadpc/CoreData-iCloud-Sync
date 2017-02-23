@@ -1,6 +1,8 @@
 CoreDataSync
 ========================
 
+[![Build Status](https://travis-ci.org/irshadpc/CoreData-iCloud-Sync.svg?branch=master)](https://travis-ci.org/irshadpc/CoreData-iCloud-Sync)
+
 Simple Core Data iCloud sync demonstration. This project demonstrate icloud backup and restore functionality using core data.
 
 
