@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: CoreDataSync.xcodeproj 
+xcode_scheme: CoreDataSync
+osx_image: xcode7.3
